@@ -1,4 +1,4 @@
-# API Reference 2.0
+ # API Reference 2.0
 
 ## Introduction
 The Open API 2.0 is the new version of the publicly available protobuf-based API developed by Spotware. It allows third-party service providers to integrate additional tools and applications for trading and analysis with the data and functionality from cTrader platform by getting all the required cTID data, market data and performing all possible trading operations on behalf of other cTrader users.
